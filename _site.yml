@@ -1,0 +1,12 @@
+name: "Stat462-2026_FinalBlog"
+title: "STAT462-RegressionProjects"
+description: |
+  STAT462-RegressionProjects
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
