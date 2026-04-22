@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>STAT462-RegressionProjects</title>
+    <link>https://psu-spatial.github.io/Stat462-2026_FinalBlog</link>
+    <atom:link href="https://psu-spatial.github.io/Stat462-2026_FinalBlog/index.xml" rel="self" type="application/rss+xml"/>
+    <description>STAT462-RegressionProjects
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Welcome to STAT462-RegressionProjects</title>
+      <dc:creator>Nora Jones</dc:creator>
+      <link>https://psu-spatial.github.io/Stat462-2026_FinalBlog/posts/welcome</link>
+      <description>Welcome to our new blog, STAT462-RegressionProjects. We hope you enjoy 
+reading what we have to say!</description>
+      <guid>https://psu-spatial.github.io/Stat462-2026_FinalBlog/posts/welcome</guid>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

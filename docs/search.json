@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2026-04-22T09:50:14-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "STAT462-RegressionProjects",
+      "author": [],
+      "contents": "\nHello\n\n\n\n",
+      "last_modified": "2026-04-22T09:50:15-04:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
